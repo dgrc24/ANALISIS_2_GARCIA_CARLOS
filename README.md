@@ -6,7 +6,7 @@ Este proyecto fue elaborado por: Carlos Daniel Garcia Rodriguez
 Se puede compilar en cualquier IDE de Python
 
 ```bash
-python analisis2_garcia_carlos.py
+python analisis_2_garcia_carlos.py
 ```
 
 ## Usage
